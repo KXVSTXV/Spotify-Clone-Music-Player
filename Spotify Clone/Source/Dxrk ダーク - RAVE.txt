@@ -1,0 +1,11 @@
+<html>
+<body bgcolor="#333333">
+<a href="file:///D:/Spotify%20Clone/spotify.html"> <- Back </a>
+<center><img src = "Dxrk ダーク - RAVE.jpg" height="500" width="500"></center>
+<center><h1 style="color:white;">RAVE</h1></center>
+<center><h3 style="color:white;">Dxrk ダーク</h3></center>
+<center><audio controls>
+<source src = "Dxrk ダーク - RAVE.mp3" type="audio/mp3">
+</audio></center>
+</body>
+</html>

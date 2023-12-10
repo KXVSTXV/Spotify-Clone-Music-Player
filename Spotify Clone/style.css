@@ -1,0 +1,44 @@
+header, footer
+{
+overflow: hidden;
+}
+
+body
+{
+overflow-y: scroll;
+}
+
+.song
+{
+overflow-x: scroll;
+}
+
+.song a
+{
+color: black;
+}
+
+.song img
+{
+height: 200px;
+width: 280px;
+margin-right: 50px;
+margin-left: 50px;
+}
+
+.song .name
+{
+color: white;
+font-size: 20;
+font-weight: bold;
+margin-right: 50px;
+margin-left: 50px;
+}
+
+.song .creator
+{
+color:white;
+font-size: 16;
+margin-right: 50px;
+margin-left: 50px;
+}
